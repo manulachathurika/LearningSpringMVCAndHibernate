@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\thanman\Projects\LearningSpringMVCAndHibernate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\185871768.index
+\web-customer-tracker\src
+C:\Users\thanman\Projects\LearningSpringMVCAndHibernate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4261569207.index
+\web-customer-tracker\src

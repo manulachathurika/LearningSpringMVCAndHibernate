@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Jan 29 12:08:12 IST 2019
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\thanman\\Projects\\LearningSpringMVCAndHibernate\\web-customer-tracker\\WebContent\\WEB-INF\\lib\\spring-web-5.0.2.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.2.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\thanman\\Projects\\LearningSpringMVCAndHibernate\\web-customer-tracker\\WebContent\\WEB-INF\\lib\\spring-web-5.0.2.RELEASE.jar=WEB-INF/lib/spring-web-5.0.2.RELEASE.jar
