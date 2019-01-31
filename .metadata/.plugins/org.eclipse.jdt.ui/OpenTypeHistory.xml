@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-<typeInfo handle="=web-customer-tracker/src&lt;com.luv2code.springdemo.dao{CustomerDAO.java[CustomerDAO" modifiers="513" timestamp="1548658272709"/>
-<typeInfo handle="=web-customer-tracker/C:\/Users\/thanman\/Projects\/LearningSpringMVCAndHibernate\/web-customer-tracker\/WebContent\/WEB-INF\/lib\/spring-web-5.0.2.RELEASE.jar&lt;org.springframework.http.codec(CodecConfigurer$CustomCodecs.class[CustomCodecs" modifiers="1545" timestamp="1548655128716"/>
-<typeInfo handle="=web-customer-tracker/src&lt;com.luv2code.springdemo.service{CustomerService.java[CustomerService" modifiers="513" timestamp="1548665056982"/>
-</typeInfoHistroy>
